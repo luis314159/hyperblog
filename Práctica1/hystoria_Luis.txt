@@ -7,3 +7,4 @@ o quien sabe
 Luis nacio en Delicias, chihuahua pero ahora vive en chihuahua. 
 Luis es ingeniero Electromecánico 
 y es muy guapo 🥰
+Y estudia git 
